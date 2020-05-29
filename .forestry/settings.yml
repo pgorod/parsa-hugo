@@ -5,19 +5,19 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content
+  path: content
   label: Post
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: exampleSite/content/about
+  path: content/about
   label: About
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/contact
+  path: content/contact
   label: Contact
   create: none
   match: "*"
@@ -27,7 +27,7 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: exampleSite/static/images
+upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
