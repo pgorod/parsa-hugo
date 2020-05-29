@@ -1,7 +1,7 @@
 # default config
 baseURL = "https://parsa-hugo.netlify.app"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Inconveniente"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
@@ -53,7 +53,7 @@ name = "Contact"
 URL = "contact"
 weight = 3
 
-# deult parameter
+# default parameter
 [params]
 logo = "images/logo.png"
 home = "Home"
