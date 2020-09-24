@@ -11,7 +11,7 @@ around me, and the meridian sun strikes the upper surface of the impenetrable fo
 few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
 stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
 
-I hear the \[buzz!\](www.google.com) of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+I hear the \[buzz\](http://www.google.com) of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
 dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
